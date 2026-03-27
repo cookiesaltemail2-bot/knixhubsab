@@ -258,6 +258,7 @@ G2L["1e"]["ScrollBarImageColor3"] = Color3.fromRGB(73, 113, 224);
 G2L["1e"]["Position"] = UDim2.new(0, 0, 0, 0);
 G2L["1e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["1e"]["BackgroundTransparency"] = 1;
+G2L["1e"]["CanvasSize"] = UDim2.new(0,0,5, 0)
 local uiaspectration = Instance.new("UIAspectRatioConstraint", G2L['1e'])
 uiaspectration.AspectRatio = 1.011
 uiaspectration.AspectType = Enum.AspectType.FitWithinMaxSize
